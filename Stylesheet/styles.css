@@ -41,3 +41,8 @@ marquee{
     font-family:cursive ;
     color: rgb(90, 1, 34);
 }
+
+#button{
+    text-align: center;
+    align-content: center;
+}
