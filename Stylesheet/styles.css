@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+nav{
+    background-color:lemonchiffon;
+    height: 60px;
+
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+#navBar{
+    font-family:cursive;
+}
+
+a{
+    text-decoration: none;
+}
+
+#hero{
+    width: 1920px;
+    height: 1080px;
+    background-color: rgb(254, 199, 208);
+}
+#footer{
+    background-color: rgb(252, 219, 255);
+    height: 120px;
+    align-content: center;
+    text-align: center;
+    color: rgb(49, 3, 49);
+}
+marquee{
+    height: 90px;
+    background-color: lavenderblush;
+    align-content: center;
+    font-size:x-large;
+    font-family:cursive ;
+    color: rgb(90, 1, 34);
+}
